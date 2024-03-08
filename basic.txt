@@ -1,1 +1,1 @@
-basic functionality + hotfix
+basic functionality + hotfix + improvements
